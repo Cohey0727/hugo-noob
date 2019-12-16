@@ -4,7 +4,6 @@
 
 ```
 brew install hugo
-
 ```
 
 ## Step 2: Start the Hugo server
